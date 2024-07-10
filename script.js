@@ -1,5 +1,4 @@
 
-<script>
   const uploadBtn = document.getElementById('upload-btn');
   const fileInput = document.getElementById('file-input');
   const downloadBtn = document.getElementById('download-btn');
@@ -39,4 +38,3 @@
       };
     };
   }
-</script>
